@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/design-patterns/abstract_factory/abstract_factory.iml" filepath="$PROJECT_DIR$/design-patterns/abstract_factory/abstract_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/builder/builder.iml" filepath="$PROJECT_DIR$/design-patterns/builder/builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/design-patterns/factory_method/factory_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fucking-learnJava.iml" filepath="$PROJECT_DIR$/.idea/fucking-learnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/prototype/prototype.iml" filepath="$PROJECT_DIR$/design-patterns/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/singleton/singleton.iml" filepath="$PROJECT_DIR$/design-patterns/singleton/singleton.iml" />
     </modules>
   </component>
 </project>

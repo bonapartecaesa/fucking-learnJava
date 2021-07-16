@@ -7,15 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="abstract_factory" />
+        <module name="builder" />
+        <module name="singleton" />
         <module name="factory_method" />
+        <module name="prototype" />
+        <module name="abstract_factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="abstract_factory" target="1.5" />
+      <module name="builder" target="8" />
       <module name="design-patterns" target="1.5" />
       <module name="factory_method" target="1.5" />
       <module name="fucking-learnJava" target="1.5" />
+      <module name="prototype" target="8" />
+      <module name="singleton" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

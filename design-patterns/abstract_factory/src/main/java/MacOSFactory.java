@@ -2,7 +2,7 @@
  * @Classname MacOSFactory
  * @Description
  * @Date 2021/7/16
- * @Created by bignox
+ * @Created by Meng
  */
 public class MacOSFactory implements GUIFactory{
     public Button createButton() {
